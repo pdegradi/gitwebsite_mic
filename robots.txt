@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mic.pphost.com.de/sitemap-index.xml
